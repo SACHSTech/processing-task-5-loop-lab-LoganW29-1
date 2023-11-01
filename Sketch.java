@@ -177,6 +177,7 @@ public class Sketch extends PApplet {
       }
     }   
   }
+
   /**
    * Draws the top middle left section.
    */
@@ -220,6 +221,7 @@ public class Sketch extends PApplet {
     }   
 
   }
+  
   /**
    * Draws the top right section.
    */
